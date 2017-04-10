@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="true_button">Да</string>
+    <string name="false_button">Нет</string>
+    <string name="next_button">Дальше</string>
+    <string name="prev_button">Раньше</string>
+    <string name="correct_toast">Верно!</string>
+    <string name="incorrect_toast">Неверно!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="question_oceans">Саша любит бабочку?</string>
+    <string name="question_mideast">Саша любит пауков?</string>
+    <string name="question_africa">Саша любит снег?</string>
+    <string name="question_americas">Саша любит спать?</string>
+    <string name="question_asia">Саша любит играть?</string>
+    <string name="question_1">Саша любит танцы?</string>
+    <string name="question_2">Саше нравится учиться?</string>
+    <string name="question_3">Саше нравится уставать?</string>
+    <string name="question_4">Саша любит белые плинтуса?</string>
+    <string name="question_5">Саше нравятся маленькие дети?</string>
+    <string name="question_6">Саше нравятся дети ровесники?</string>
+    <string name="question_7">Саша любит ходить по магазинам?</string>
+
+    <string name="cheat_button">Подсмотреть!</string>
+    <string name="warning_text">Точно подсмотреть?</string>
+    <string name="show_answer_button">Показать ответ</string>
+    <string name="judgment_toast">Подсматривать нехорошо.</string>
+</resources>
